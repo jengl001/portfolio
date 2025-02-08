@@ -1,9 +1,9 @@
 # Business Intelligence Manager 
 
-###Education
+### Education
 
 
-###Work Experience 
+### Work Experience 
 
 
-###Projects
+### Projects
